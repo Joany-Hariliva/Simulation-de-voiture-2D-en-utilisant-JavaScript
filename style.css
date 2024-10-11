@@ -1,0 +1,10 @@
+body {
+    background: darkgray; /* Définit la couleur de fond de la page en gris foncé */
+    margin: 0; /* Supprime les marges par défaut autour du corps de la page */
+    overflow: hidden; /* Empêche les barres de défilement d'apparaître */
+    text-align: center; /* Centre le texte horizontalement dans le corps de la page */
+}
+
+#myCanvas {
+    background: lightgray; /* Définit la couleur de fond du canvas en gris clair */
+}
